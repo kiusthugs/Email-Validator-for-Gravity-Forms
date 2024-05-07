@@ -43,5 +43,3 @@ This plugin adds email validation functionality to your WordPress website. It us
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
-
-# Email-Validator-for-Gravity-Forms
